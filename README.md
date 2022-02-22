@@ -1,2 +1,2 @@
-# MvcSeries
-MVC 시리즈
+MVC 시리즈 입니다 
+1단계부터 7단계까지 단계별로 WEB MVC 프레임워크가 어떻게 변형이 되면서 Spring WEB MVC 프레임워크로 넘어가는지 학습한 코드입니다.
